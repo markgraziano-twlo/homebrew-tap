@@ -3,8 +3,8 @@ class Secretverify < Formula
 
   desc "Validate leaked secrets from the command line"
   homepage "https://github.com/your-username/secretverify"
-  url "https://github.com/your-username/secretverify/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  url "https://github.com/markgraziano-twlo/secretverify/archive/refs/tags/v0.1.0.tar.gz"
+  sha256 "cf009a54ca18b7c160acf9d092a2deb0b854e799d187e1e672bc813f746fac1c"
   license "MIT"  # or whatever license you choose
 
   depends_on "python@3.11"
