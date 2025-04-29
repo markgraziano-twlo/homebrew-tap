@@ -39,6 +39,11 @@ class Secretverify < Formula
     sha256 "1daff0494820c69bc8941e407aa20f577374ee88364ee10a98fdbe0aece96e29"
   end
 
+  resource "wcwidth" do
+    url "https://files.pythonhosted.org/packages/source/w/wcwidth/wcwidth-0.2.6.tar.gz"
+    sha256 "a5220780a404dbe3353789870978e472cfe477761f06ee55077256e509b156d0"
+  end
+
 
   def install
     virtualenv_install_with_resources
