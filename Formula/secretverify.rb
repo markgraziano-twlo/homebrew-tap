@@ -29,9 +29,9 @@ class Secretverify < Formula
     sha256 "c9a92d68d7727fbd886a7908c08fd9e9773e5dc211bf5cbf836ba90d366dee51"
   end
 
-    resource "prompt_toolkit" do
-    url "https://files.pythonhosted.org/packages/source/p/prompt_toolkit/prompt_toolkit-3.0.51.tar.gz"
-    sha256 "931a162e3b27fc90c86f1b48bb1fb2c528c2761475e57c9c06de13311c7b54ed"
+  resource "prompt_toolkit" do
+    url "https://files.pythonhosted.org/packages/source/p/prompt_toolkit/prompt_toolkit-2.0.10.tar.gz"
+    sha256 "f15af68f66e664eaa559d4ac8a928111eebd5feda0c11738b5998045224829db"
   end
 
   resource "Pygments" do
