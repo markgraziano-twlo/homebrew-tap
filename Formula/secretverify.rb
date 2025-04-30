@@ -26,7 +26,7 @@ end
 
 resource "click" do
   url "https://files.pythonhosted.org/packages/source/c/click/click-8.1.7.tar.gz"
-  sha256 "<SHA256_OF_click-8.1.7>"
+  sha256 "ca9853ad459e787e2192211578cc907e7594e294c7ccc834310722b41b9ca6de"
 end
 
   def install
