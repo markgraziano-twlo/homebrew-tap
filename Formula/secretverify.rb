@@ -3,7 +3,7 @@ class Secretverify < Formula
 
   desc "Validate leaked secrets from the command line"
   homepage "https://github.com/markgraziano-twlo/secretverify"
-  url "https://github.com/markgraziano-twlo/secretverify/archive/refs/tags/v0.1.0.tar.gz"
+  url "https://github.com/markgraziano-twlo/secretverify/archive/refs/tags/v0.2.0.tar.gz"
   sha256 "2b4191b99819b1ffc136123ab497cfe567a6ad400cca979e7a2db16c8203632b"
   license "MIT"
 
